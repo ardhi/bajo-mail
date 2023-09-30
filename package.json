@@ -1,0 +1,29 @@
+{
+  "name": "bajo-mail",
+  "version": "0.1.1",
+  "description": "Mail binding for Bajo Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/bajo-mail.git"
+  },
+  "keywords": [
+    "bajo",
+    "framework",
+    "mail",
+    "binding"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/bajo-mail/issues"
+  },
+  "homepage": "https://github.com/ardhi/bajo-mail#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.5"
+  }
+}

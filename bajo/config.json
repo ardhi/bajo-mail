@@ -1,0 +1,5 @@
+{
+  "transports": [],
+  "sender": "No Reply <noreply@domain.com>",
+  "dependencies": ["bajo-emitter"]
+}
