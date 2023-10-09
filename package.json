@@ -1,6 +1,6 @@
 {
   "name": "bajo-mail",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Mail binding for Bajo Framework",
   "main": "index.js",
   "scripts": {
