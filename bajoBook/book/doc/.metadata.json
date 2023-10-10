@@ -6,5 +6,13 @@
       "coverImage": "v596batch2-aum-50-flower.jpg",
       "coverImageAttr": "<a href=\"https://www.freepik.com/free-vector/blank-white-card-with-blue-envelope-mockup_13311366.htm#page=2&query=mail&position=12&from_view=search&track=sph\">Image by rawpixel.com</a> on Freepik"
     }
+  },
+  "pages": {
+    "api": {
+      "level": "1"
+    },
+    "api/configuration-file": {
+      "level": "1.1"
+    }
   }
 }
