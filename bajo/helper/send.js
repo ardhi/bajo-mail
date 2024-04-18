@@ -1,6 +1,6 @@
 async function send (data, transportName) {
-  const { importPkg, error } = this.bajo.helper
-  const { find } = await importPkg('lodash-es')
+  const { error } = this.bajo.helper
+  const { find } = this.bajo.helper._
 
   const transport = find(this.bajoMail.transports, { name: transportName })
   if (!transport) throw error('Unknown transport \'%s\'', transportName)
